@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and neuroscience/biomedical engineer. 
 - 🌱 I’m currently learning Python, Go, and Github, as well as the principle of Continuous integration and deployment
 - 💞️ I’m looking to collaborate on well... I'll figure that out soon
-- 📫 How to reach me - d.j.sauer@tcu.edu for now
+- 📫 How to reach me - dj.sauer1998@gmail.com for now
 
 <!---
 Deejasqueege/Deejasqueege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
